@@ -1,7 +1,7 @@
 
 <h1> Estudos Sobre Atrasos de Voos no Brasil</h1>
 <h2> Uma tentativa de predição de atrasos em chegadas de voos usando MultiLayer Perceptron</h2>
-
+<p>Muitas das transformações dos dados utilizadas neste notebook foram aprendidas <a href="https://www.kaggle.com/microtang/exploring-brazil-flights-data">neste kernel</a> </p>
 <h3>1. Importando as Bibliotecas que utilizaremos no projeto</h3>
 
 
